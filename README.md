@@ -1,5 +1,16 @@
 # Técnico Subsequente em Redes de Computadores
    
+## Teste do site
+
+| Comando | Comentário |
+| ------- | -----------|
+| `python3 -m venv .venv` | Cria um  ambiente virtual |
+| `source .venv/bin/activate` | Ativa o novo ambiente virtual |
+| `pip3 install -r requirements.txt` | Instala as dependências | 
+| `mkdocs serve` | Inicia servidor HTTP de teste | 
+
+Após executar, na sequência apresentada, os comandos listados na tabela anterior, abra, em um navegador de web, a URL: <http://127.0.0.1:8000>.
+
 ## Disciplinas
 
 * [Administração de Sistemas Abertos ](administracao-de-sistemas-abertos.md)
